@@ -1,1 +1,482 @@
-[]
+[
+  {
+    "author": "Andreas Pardeike",
+    "name": "Harmony",
+    "steamId": "2009463077",
+    "version": "2.3.5.0"
+  },
+  {
+    "author": "Peppsen",
+    "name": "P-Music",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Billnotic",
+    "name": "Actually Vanilla Music Expansion",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Dubwise",
+    "name": "Dubs Mint Menus",
+    "steamId": "1446523594",
+    "version": "1.0.0"
+  },
+  {
+    "author": "Imranfish",
+    "name": "XML Extensions",
+    "steamId": "2574315206",
+    "version": "1.9.1"
+  },
+  {
+    "author": "Soul, Phaneron and Bradson",
+    "name": "Adaptive Storage Framework",
+    "steamId": "3033901359",
+    "version": "1.2.4+40787e9e0746aab12c0bcfb376f67bdeaffd6bdd"
+  },
+  {
+    "author": "Oskar Potocki, XeoNovaDan, Orion, Kikohi, Taranchuk, Sarg Bjornson and Erdelf",
+    "name": "Vanilla Expanded Framework",
+    "steamId": "2023507013",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Oskar Potocki and Sarg Bjornson",
+    "name": "Vanilla Furniture Expanded - Props and Decor",
+    "steamId": "2102143149",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Zaljerem",
+    "name": "Majestic Foliage Framework[HH] (Continued)",
+    "steamId": "3358954913",
+    "version": "0.0.0.0"
+  },
+  {
+    "author": "Zaljerem",
+    "name": "Majestic Foliage - Djeeshka's CMT Retexture (Continued)",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "AUTOMATIC",
+    "name": "Gunplay",
+    "steamId": "2034896549",
+    "version": "1.0.379.0018"
+  },
+  {
+    "author": "Keshash",
+    "name": "Extra Explosion Effects",
+    "steamId": "3066208882",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Mlie",
+    "name": "Various Space Ship Chunk (Continued)",
+    "steamId": "2014616487",
+    "version": "1.6.0"
+  },
+  {
+    "author": "Si-Cafe",
+    "name": "Graphic Chair Overhaul 2",
+    "steamId": "2982680251",
+    "version": "1.12.9325.31714"
+  },
+  {
+    "author": "Oskar Potocki, Helixien, Erin, Luizi, ISOREX, erdelf and Sarg",
+    "name": "Vanilla Textures Expanded",
+    "steamId": "2016436324",
+    "version": "1.0.0"
+  },
+  {
+    "author": "SirVan",
+    "name": "Van's Retexture : Hemogen Vials ",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Sarg Bjornson",
+    "name": "Vanilla Textures Expanded - Variations",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Katsudon",
+    "name": "UI Retexture",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Ren7z",
+    "name": "Clean Textures",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Elseud and Sir Van",
+    "name": "Biotech Mechanoid Retexture",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Happycam",
+    "name": "Long Range Mineral Scanner Retexture",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Happycam",
+    "name": "Multi Analyzer Retexture",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "marcin212",
+    "name": "Architect Icons",
+    "steamId": "1195427067",
+    "version": "1.2.0.0"
+  },
+  {
+    "author": "AUTOMATIC",
+    "name": "Bionic icons",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Superniquito",
+    "name": "Trait and Backstory Icons",
+    "steamId": "2873494547",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Oskar Potocki and Sarg Bjornson",
+    "name": "Vanilla Races Expanded - Custom Icons",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "karma",
+    "name": "Bradson's Main Button Icons (Forked + Expanded)",
+    "steamId": "3532359201",
+    "version": "1.0.0+3ba7d91a18222689dbf3f3d2057d09d843be6de8"
+  },
+  {
+    "author": "Neceros",
+    "name": "Bad Can Be Good (Continued)",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "ferny",
+    "name": "Drag-Sorting",
+    "steamId": "3439730927",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "telardo",
+    "name": "DragSelect",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "RemingtonRyder",
+    "name": "Ugh You Got Me",
+    "steamId": "1542424705",
+    "version": "1.0.9303.23067"
+  },
+  {
+    "author": "Aelanna",
+    "name": "Better Pyromania",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "nry",
+    "name": "ToolkitCore",
+    "steamId": "3013877477",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "nry",
+    "name": "Twitch Toolkit",
+    "steamId": "3013874066",
+    "version": "2.0.10.0"
+  },
+  {
+    "author": "SirRandoo",
+    "name": "ToolkitUtils",
+    "steamId": "2009500580",
+    "version": "7.0.6.0-RC1+1ca7c6f6287e48f5f245b4c8dee252be6f2eda94"
+  },
+  {
+    "author": "swemoney",
+    "name": "Toolkit - Channel Points",
+    "steamId": "1916651243",
+    "version": "1.6.0"
+  },
+  {
+    "author": "Deadmano",
+    "name": "Rimano: Architect Icons",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Hob Took",
+    "name": "Trade UI Revised",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "DimonSever000",
+    "name": "Social Interface",
+    "steamId": "2854221326",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Mlie",
+    "name": "Smarter Visitors",
+    "steamId": "3012491521",
+    "version": "1.6.0"
+  },
+  {
+    "author": "Weilbyte",
+    "name": "Snap Out!",
+    "steamId": "1319782555",
+    "version": "0.9.1"
+  },
+  {
+    "author": "denev",
+    "name": "Smart Turret Covering",
+    "steamId": "2636621800",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "MrHydralisk",
+    "name": "Skilled Slaughtering",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "vin",
+    "name": "Adaptive Primitive Storage",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Ratys",
+    "name": "RT Fuse",
+    "steamId": "728314182",
+    "version": "1.8.0.0"
+  },
+  {
+    "author": "Soul",
+    "name": "Retextured! - RT Fuse",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Happycam",
+    "name": "Vanilla + Wall Vitals Monitors Retexture",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Aelanna",
+    "name": "Eccentric Extras - Angel Hairs",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Aelanna",
+    "name": "Eccentric Tech - Core",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Aelanna",
+    "name": "Eccentric Tech - Advanced Shields",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Aelanna",
+    "name": "Eccentric Tech - Cosmetic Modifications",
+    "steamId": "2552628984",
+    "version": "3.5.0.0"
+  },
+  {
+    "author": "Aelanna",
+    "name": "Eccentric Tech - Defense Grid",
+    "steamId": "3066838686",
+    "version": "6.4.0.0"
+  },
+  {
+    "author": "Aelanna",
+    "name": "Eccentric Tech - Foxy's Armory 2.0",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Aelanna",
+    "name": "Eccentric Tech - Fusion Power",
+    "steamId": "2742125879",
+    "version": "1.5.1.0"
+  },
+  {
+    "author": "Aelanna",
+    "name": "Eccentric Tech - Spacer Furniture",
+    "steamId": "3118185542",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Krazy4Games",
+    "name": "[K4G] Vanilla Weapon Retextures",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Erin",
+    "name": "Erin's Body Retexture",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "FaintingGoat",
+    "name": "Food Texture Variety Core",
+    "steamId": "3354455179",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "FaintingGoat",
+    "name": "Food Texture Variety - Replacement",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "NomadRw",
+    "name": "Projectile Bullet Retexture",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "NomadRw",
+    "name": "Turret Vanilla Retexture and Restyle",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Neronix17",
+    "name": "Vanilla Hair Retextured",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Neronix17",
+    "name": "Vanilla Beards Retextured",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "SirVan",
+    "name": "Van's Retexture : Mechanitor",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "SirVan",
+    "name": "Van's Retexture : Melee Weapons",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "seobongzu",
+    "name": "[sbz] Neat Storage",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "ferny",
+    "name": "More Prop Categories",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Reel",
+    "name": "Reel's Expanded Storage",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "ferny",
+    "name": "Progression: Storage",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "ISOREX, legodude17, Taranchuk, TreadTheDawnGames, mycroftjr, Inglix and fofajardo",
+    "name": "Pawn Editor",
+    "steamId": "3219801790",
+    "version": "1.0.0+e3a491eafe81dcecb36dd3c0da8993af00904812"
+  },
+  {
+    "author": "Dubwise",
+    "name": "Dubs Break Mod",
+    "steamId": "1722398508",
+    "version": "1.0.0"
+  },
+  {
+    "author": "Bonible",
+    "name": "Enhanced Vanilla Gun Sounds Revived",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Telefonmast",
+    "name": "Graphics Settings+",
+    "steamId": "1678847247",
+    "version": "1.0.0"
+  },
+  {
+    "author": "Arkymn",
+    "name": "Graying Hair",
+    "steamId": "2807132773",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "GonDragon",
+    "name": "Tech Tree Patch Framework",
+    "steamId": "3328259637",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "GonDragon",
+    "name": "GonDragon's Tech Tree",
+    "steamId": "3328259983",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Chris",
+    "name": "Cuter Biotech Cat/Dog Ear Replacer",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Andromeda",
+    "name": "Nice Health Tab",
+    "steamId": "3328729902",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Issac Zhuang",
+    "name": "Muzzle Flash",
+    "steamId": "2917732219",
+    "version": "1.0.0+32551f73e65d34500ac07f551a02ee533c35587a"
+  },
+  {
+    "author": "Hob Took",
+    "name": "Mortar Accuracy",
+    "steamId": "1729446857",
+    "version": "1.6"
+  }
+]
